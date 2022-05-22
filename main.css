@@ -15,3 +15,92 @@
 .lead {
     text-align: center;
 }
+
+.darkSection {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.stone-img {
+    border-radius: 60%;
+}
+
+.logo {
+    border-radius: 60%;
+}
+
+.video-container {
+    position: relative;
+    width: 50%;
+    padding-bottom: 25%;
+    margin-bottom: 25%;
+}
+
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50rem;
+    border: 0;
+    height: 25rem;
+
+}
+
+.neck-p {
+    background-color: pink;
+}
+
+.coolStuffWrapper {
+    margin-top: 20px;
+}
+
+button.coolStuffBtn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+    padding-left: 30px;
+    text-decoration: underline;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+.imgCenter {
+    display:block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top:15px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.fa {
+    margin: 10px;
+}
+
+.footer-img {
+    padding: 15px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-instagram-square {
+    color: white;
+}
+
+.fa-google-plus-square {
+    color: red;
+}
+
