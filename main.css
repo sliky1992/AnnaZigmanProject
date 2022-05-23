@@ -16,6 +16,18 @@
     text-align: center;
 }
 
+
+.date-label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+    margin-left: 5rem;
+}
+
+.date-input,
+ label {
+    margin: .4rem 0;
+}
+
 .darkSection {
     background-color: #cccccc;
     padding: 2rem;
@@ -47,6 +59,14 @@
 }
 
 .neck-p {
+    background-color: pink;
+}
+
+.oils-p {
+    background-color: pink;
+}
+
+.spa-p {
     background-color: pink;
 }
 
